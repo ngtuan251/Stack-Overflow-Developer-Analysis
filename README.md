@@ -6,7 +6,7 @@ Being a developer, you might wonder:
 - Will you earn more salary as you gain more experience? If so how much more?
 - Do other factors such as the former degree, position type, and the size of the company affect your salaries?
 
-In this project, we will try to answer these questions using visualizations and Bayesian inference.
+In this project, we will answer these questions by analysing the dataset from Stack Overflow Developer Survey 2021 using visualizations and Bayesian inference.
 
 ## References
 
